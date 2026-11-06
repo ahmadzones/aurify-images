@@ -1,0 +1,10 @@
+{
+ "guide|quickbooks": {
+  "attempts": 1,
+  "name": "QuickBooks",
+  "type": "guide",
+  "reason": "no verified price or free status on the official pages (retry later)",
+  "version": 2,
+  "date": "2026-11-06"
+ }
+}
