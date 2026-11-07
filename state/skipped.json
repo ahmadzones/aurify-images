@@ -6,5 +6,29 @@
   "reason": "no verified price or free status on the official pages (retry later)",
   "version": 2,
   "date": "2026-11-06"
+ },
+ "guide|livereview": {
+  "attempts": 1,
+  "name": "LiveReview",
+  "type": "guide",
+  "reason": "no verified price or free status on the official pages (retry later)",
+  "version": 2,
+  "date": "2026-11-07"
+ },
+ "guide|standflow": {
+  "attempts": 1,
+  "name": "Standflow",
+  "type": "guide",
+  "reason": "no verified price or free status on the official pages (retry later)",
+  "version": 2,
+  "date": "2026-11-07"
+ },
+ "guide|fleeep": {
+  "attempts": 1,
+  "name": "Fleeep",
+  "type": "guide",
+  "reason": "no verified price or free status on the official pages (retry later)",
+  "version": 2,
+  "date": "2026-11-07"
  }
 }
