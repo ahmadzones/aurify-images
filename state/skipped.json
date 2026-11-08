@@ -30,5 +30,29 @@
   "reason": "no verified price or free status on the official pages (retry later)",
   "version": 2,
   "date": "2026-11-07"
+ },
+ "guide|gpt6cyber": {
+  "attempts": 1,
+  "name": "GPT‑6 Cyber",
+  "type": "guide",
+  "reason": "official site could not be found or verified",
+  "version": 2,
+  "date": "2026-11-08"
+ },
+ "guide|dealpilot": {
+  "attempts": 1,
+  "name": "Deal Pilot",
+  "type": "guide",
+  "reason": "official site could not be found or verified",
+  "version": 2,
+  "date": "2026-11-08"
+ },
+ "guide|chatgptimages": {
+  "attempts": 1,
+  "name": "ChatGPT Images 2.6",
+  "type": "guide",
+  "reason": "official site could not be found or verified",
+  "version": 2,
+  "date": "2026-11-08"
  }
 }
