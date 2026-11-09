@@ -54,5 +54,13 @@
   "reason": "official site could not be found or verified",
   "version": 2,
   "date": "2026-11-08"
+ },
+ "alternatives|splunk": {
+  "attempts": 1,
+  "name": "Splunk",
+  "type": "alternatives",
+  "reason": "no list of alternatives from the models",
+  "version": 2,
+  "date": "2026-11-09"
  }
 }
