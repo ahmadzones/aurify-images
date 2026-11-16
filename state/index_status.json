@@ -1,0 +1,10 @@
+{
+ "2026-11-16": {
+  "discovered": 88,
+  "unknown_to_google": 17,
+  "redirect": 10,
+  "indexed": 24,
+  "blocked": 9,
+  "crawled_not_indexed": 2
+ }
+}
