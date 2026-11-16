@@ -1,0 +1,102 @@
+{
+ "kind": "alternatives",
+ "tool": "CorelDRAW",
+ "official_url": "https://www.coreldraw.com/en/",
+ "checked_date": "November 16, 2026",
+ "main_pricing": {
+  "status": "free",
+  "display": "Free",
+  "free_plan": true,
+  "free_plan_label": "Yes",
+  "price_value": null,
+  "price_text": ""
+ },
+ "alternatives": [
+  {
+   "name": "Adobe Illustrator",
+   "official_url": "https://www.adobe.com/products/illustrator.html",
+   "pricing_text": "Free plan; paid from US$15.99/month",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from US$15.99/month",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 15.99,
+    "price_text": "US$15.99/month"
+   }
+  },
+  {
+   "name": "Affinity Designer",
+   "official_url": "https://www.affinity.studio/graphic-design-software",
+   "pricing_text": "Free",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "Inkscape",
+   "official_url": "https://inkscape.org",
+   "pricing_text": "Free (open-source)",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free (open-source)",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "Vectr",
+   "official_url": "https://vectr.com",
+   "pricing_text": "Free plan; paid from $1.99/month",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $1.99/month",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 1.99,
+    "price_text": "$1.99/month"
+   }
+  },
+  {
+   "name": "Sketch",
+   "official_url": "https://www.sketch.com",
+   "pricing_text": "Free plan; paid from $12/month per editor",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $12/month per editor",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 12.0,
+    "price_text": "$12/month per editor"
+   }
+  },
+  {
+   "name": "Figma",
+   "official_url": "https://www.figma.com",
+   "pricing_text": "Free",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  }
+ ],
+ "saved": "2026-11-16",
+ "post_url": "https://www.aurifytools.com/2026/11/coreldraw-alternatives.html"
+}
