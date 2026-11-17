@@ -1,0 +1,13 @@
+{
+ "aurifytools.com/2026/09/the-101-plays-itself-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/09/the-101-plays-itself-review.html",
+  "last_attempt": "2026-11-17",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "first-person testing claims",
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
+ }
+}
