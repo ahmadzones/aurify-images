@@ -1,0 +1,102 @@
+{
+ "kind": "alternatives",
+ "tool": "Microsoft Word",
+ "official_url": "https://www.microsoft.com/en-us/microsoft-365/word",
+ "checked_date": "November 17, 2026",
+ "main_pricing": {
+  "status": "freemium",
+  "display": "Free plan; paid from $5.40/month",
+  "free_plan": true,
+  "free_plan_label": "Yes",
+  "price_value": 5.4,
+  "price_text": "$5.40/month"
+ },
+ "alternatives": [
+  {
+   "name": "Google Docs",
+   "official_url": "https://workspace.google.com/products/docs/",
+   "pricing_text": "Free plan; paid from $3.50",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $3.50",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 3.5,
+    "price_text": "$3.50"
+   }
+  },
+  {
+   "name": "LibreOffice Writer",
+   "official_url": "https://www.libreoffice.org",
+   "pricing_text": "Free (open-source)",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free (open-source)",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "Zoho Writer",
+   "official_url": "https://www.zoho.com/writer/",
+   "pricing_text": "Free",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "WPS Office Writer",
+   "official_url": "https://www.wps.com/office/writer/",
+   "pricing_text": "Free",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "Scrivener",
+   "official_url": "https://www.literatureandlatte.com/scrivener/overview",
+   "pricing_text": "US$14",
+   "free_plan": "Free trial",
+   "pricing": {
+    "status": "paid",
+    "display": "US$14",
+    "free_plan": false,
+    "free_plan_label": "Free trial",
+    "price_value": 14.0,
+    "price_text": "US$14"
+   }
+  },
+  {
+   "name": "Notion",
+   "official_url": "https://www.notion.com",
+   "pricing_text": "Free plan; paid from $8/month",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $8/month",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 8.0,
+    "price_text": "$8/month"
+   }
+  }
+ ],
+ "saved": "2026-11-17",
+ "post_url": "https://www.aurifytools.com/2026/06/microsoft-word-free-alternatives.html"
+}
