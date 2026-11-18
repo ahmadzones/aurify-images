@@ -1,0 +1,102 @@
+{
+ "kind": "alternatives",
+ "tool": "AutoCAD",
+ "official_url": "https://www.autodesk.com/products/autocad/overview",
+ "checked_date": "November 18, 2026",
+ "main_pricing": {
+  "status": "freemium",
+  "display": "Free plan; paid from $175/month",
+  "free_plan": true,
+  "free_plan_label": "Yes",
+  "price_value": 175.0,
+  "price_text": "$175/month"
+ },
+ "alternatives": [
+  {
+   "name": "BricsCAD",
+   "official_url": "https://bricscad.octave.com/bricscad",
+   "pricing_text": "Free plan; paid from €330 one-time",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from €330 one-time",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 330.0,
+    "price_text": "€330 one-time"
+   }
+  },
+  {
+   "name": "DraftSight",
+   "official_url": "https://www.draftsight.com",
+   "pricing_text": "Free plan; paid from $299/year",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $299/year",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 299.0,
+    "price_text": "$299/year"
+   }
+  },
+  {
+   "name": "FreeCAD",
+   "official_url": "https://www.freecad.org",
+   "pricing_text": "€5 one-time",
+   "free_plan": "Open-source edition",
+   "pricing": {
+    "status": "paid",
+    "display": "€5 one-time",
+    "free_plan": false,
+    "free_plan_label": "Open-source edition",
+    "price_value": 5.0,
+    "price_text": "€5 one-time"
+   }
+  },
+  {
+   "name": "LibreCAD",
+   "official_url": "https://librecad.org",
+   "pricing_text": "Free (open-source)",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free (open-source)",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  },
+  {
+   "name": "QCAD",
+   "official_url": "https://qcad.org/en/",
+   "pricing_text": "$37.00 one-time",
+   "free_plan": "Open-source edition",
+   "pricing": {
+    "status": "paid",
+    "display": "$37.00 one-time",
+    "free_plan": false,
+    "free_plan_label": "Open-source edition",
+    "price_value": 37.0,
+    "price_text": "$37.00 one-time"
+   }
+  },
+  {
+   "name": "SolidWorks",
+   "official_url": "https://www.solidworks.com",
+   "pricing_text": "Free",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "free",
+    "display": "Free",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": null,
+    "price_text": ""
+   }
+  }
+ ],
+ "saved": "2026-11-18",
+ "post_url": "https://www.aurifytools.com/2026/06/autocad-free-alternatives_01687631584.html"
+}
