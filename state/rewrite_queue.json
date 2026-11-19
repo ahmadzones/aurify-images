@@ -18,5 +18,16 @@
   "reasons": [
    "3 or more information gaps"
   ]
+ },
+ "aurifytools.com/2026/06/loopa-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/06/loopa-review.html",
+  "last_attempt": "2026-11-19",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "first-person testing claims",
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
  }
 }
