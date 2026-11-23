@@ -60,5 +60,14 @@
    "old format (no 'Last checked' + 'Sources checked')"
   ],
   "status": "pending"
+ },
+ "aurifytools.com/2026/06/haqq-legal-ai-on-mobile-review.html": {
+  "url": "https://www.aurifytools.com/2026/06/haqq-legal-ai-on-mobile-review.html",
+  "status": "done",
+  "attempts": 1,
+  "last_attempt": "2026-11-23",
+  "reasons": [
+   "3 or more information gaps"
+  ]
  }
 }
