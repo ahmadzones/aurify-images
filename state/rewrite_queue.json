@@ -69,5 +69,16 @@
   "reasons": [
    "3 or more information gaps"
   ]
+ },
+ "aurifytools.com/2026/07/typeahead-2-0-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/07/typeahead-2-0-review.html",
+  "last_attempt": "2026-11-25",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "invented person or story",
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
  }
 }
