@@ -80,5 +80,25 @@
    "old format (no 'Last checked' + 'Sources checked')"
   ],
   "status": "pending"
+ },
+ "aurifytools.com/2026/09/hynts-by-seekahost-india-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/09/hynts-by-seekahost-india-review.html",
+  "last_attempt": "2026-11-26",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "3 or more information gaps"
+  ],
+  "status": "pending"
+ },
+ "aurifytools.com/2026/09/dev-tv-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/09/dev-tv-review.html",
+  "last_attempt": "2026-11-26",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
  }
 }
