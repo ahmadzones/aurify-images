@@ -31,9 +31,9 @@
   "status": "pending"
  },
  "aurifytools.com/2026/08/clears-review.html": {
-  "attempts": 1,
+  "attempts": 2,
   "url": "https://www.aurifytools.com/2026/08/clears-review.html",
-  "last_attempt": "2026-11-20",
+  "last_attempt": "2026-11-27",
   "skip_reason": "official website not found or not verifiable",
   "reasons": [
    "3 or more information gaps"
@@ -97,6 +97,17 @@
   "last_attempt": "2026-11-26",
   "skip_reason": "official website not found or not verifiable",
   "reasons": [
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
+ },
+ "aurifytools.com/2026/06/tine-review_0927132709.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/06/tine-review_0927132709.html",
+  "last_attempt": "2026-11-27",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "first-person testing claims",
    "old format (no 'Last checked' + 'Sources checked')"
   ],
   "status": "pending"
