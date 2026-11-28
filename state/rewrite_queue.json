@@ -121,5 +121,25 @@
    "first-person testing claims",
    "old format (no 'Last checked' + 'Sources checked')"
   ]
+ },
+ "aurifytools.com/2026/07/orbit-for-mac-review.html": {
+  "url": "https://www.aurifytools.com/2026/07/orbit-for-mac-review.html",
+  "status": "done",
+  "attempts": 1,
+  "last_attempt": "2026-11-28",
+  "reasons": [
+   "old format (no 'Last checked' + 'Sources checked')"
+  ]
+ },
+ "aurifytools.com/2026/06/persona-js-review.html": {
+  "attempts": 1,
+  "url": "https://www.aurifytools.com/2026/06/persona-js-review.html",
+  "last_attempt": "2026-11-28",
+  "skip_reason": "official website not found or not verifiable",
+  "reasons": [
+   "invented person or story",
+   "old format (no 'Last checked' + 'Sources checked')"
+  ],
+  "status": "pending"
  }
 }
