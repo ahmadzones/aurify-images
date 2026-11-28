@@ -1,0 +1,16 @@
+{
+ "kind": "guide",
+ "tool": "Orbit for Mac",
+ "official_url": "https://orbit.so",
+ "checked_date": "November 28, 2026",
+ "pricing": {
+  "status": "freemium",
+  "display": "Free plan; paid from $10",
+  "free_plan": true,
+  "free_plan_label": "Yes",
+  "price_value": 10.0,
+  "price_text": "$10"
+ },
+ "saved": "2026-11-28",
+ "post_url": "https://www.aurifytools.com/2026/07/orbit-for-mac-review.html"
+}
