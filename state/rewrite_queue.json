@@ -41,9 +41,9 @@
   "status": "pending"
  },
  "aurifytools.com/2026/07/anysearch-review.html": {
-  "attempts": 1,
+  "attempts": 2,
   "url": "https://www.aurifytools.com/2026/07/anysearch-review.html",
-  "last_attempt": "2026-11-21",
+  "last_attempt": "2026-11-28",
   "skip_reason": "official website not found or not verifiable",
   "reasons": [
    "old format (no 'Last checked' + 'Sources checked')"
@@ -111,5 +111,15 @@
    "old format (no 'Last checked' + 'Sources checked')"
   ],
   "status": "pending"
+ },
+ "aurifytools.com/2026/07/genflik-review.html": {
+  "url": "https://www.aurifytools.com/2026/07/genflik-review.html",
+  "status": "done",
+  "attempts": 1,
+  "last_attempt": "2026-11-28",
+  "reasons": [
+   "first-person testing claims",
+   "old format (no 'Last checked' + 'Sources checked')"
+  ]
  }
 }
