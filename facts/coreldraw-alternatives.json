@@ -2,7 +2,7 @@
  "kind": "alternatives",
  "tool": "CorelDRAW",
  "official_url": "https://www.coreldraw.com/en/",
- "checked_date": "November 16, 2026",
+ "checked_date": "November 28, 2026",
  "main_pricing": {
   "status": "free",
   "display": "Free",
@@ -15,29 +15,15 @@
   {
    "name": "Adobe Illustrator",
    "official_url": "https://www.adobe.com/products/illustrator.html",
-   "pricing_text": "Free plan; paid from US$15.99/month",
+   "pricing_text": "Free plan; paid from US$9.99/month",
    "free_plan": "Yes",
    "pricing": {
     "status": "freemium",
-    "display": "Free plan; paid from US$15.99/month",
+    "display": "Free plan; paid from US$9.99/month",
     "free_plan": true,
     "free_plan_label": "Yes",
-    "price_value": 15.99,
-    "price_text": "US$15.99/month"
-   }
-  },
-  {
-   "name": "Affinity Designer",
-   "official_url": "https://www.affinity.studio/graphic-design-software",
-   "pricing_text": "Free",
-   "free_plan": "Yes",
-   "pricing": {
-    "status": "free",
-    "display": "Free",
-    "free_plan": true,
-    "free_plan_label": "Yes",
-    "price_value": null,
-    "price_text": ""
+    "price_value": 9.99,
+    "price_text": "US$9.99/month"
    }
   },
   {
@@ -55,31 +41,31 @@
    }
   },
   {
-   "name": "Vectr",
-   "official_url": "https://vectr.com",
-   "pricing_text": "Free plan; paid from $1.99/month",
+   "name": "Affinity Designer",
+   "official_url": "https://www.affinity.studio/graphic-design-software",
+   "pricing_text": "Free",
    "free_plan": "Yes",
    "pricing": {
-    "status": "freemium",
-    "display": "Free plan; paid from $1.99/month",
+    "status": "free",
+    "display": "Free",
     "free_plan": true,
     "free_plan_label": "Yes",
-    "price_value": 1.99,
-    "price_text": "$1.99/month"
+    "price_value": null,
+    "price_text": ""
    }
   },
   {
-   "name": "Sketch",
-   "official_url": "https://www.sketch.com",
-   "pricing_text": "Free plan; paid from $12/month per editor",
+   "name": "Linearity Curve (formerly Vectornator)",
+   "official_url": "https://www.linearity.io/curve/",
+   "pricing_text": "Free plan; paid from $8/month",
    "free_plan": "Yes",
    "pricing": {
     "status": "freemium",
-    "display": "Free plan; paid from $12/month per editor",
+    "display": "Free plan; paid from $8/month",
     "free_plan": true,
     "free_plan_label": "Yes",
-    "price_value": 12.0,
-    "price_text": "$12/month per editor"
+    "price_value": 8.0,
+    "price_text": "$8/month"
    }
   },
   {
@@ -95,8 +81,22 @@
     "price_value": null,
     "price_text": ""
    }
+  },
+  {
+   "name": "Sketch",
+   "official_url": "https://www.sketch.com",
+   "pricing_text": "Free plan; paid from $12/month per editor",
+   "free_plan": "Yes",
+   "pricing": {
+    "status": "freemium",
+    "display": "Free plan; paid from $12/month per editor",
+    "free_plan": true,
+    "free_plan_label": "Yes",
+    "price_value": 12.0,
+    "price_text": "$12/month per editor"
+   }
   }
  ],
- "saved": "2026-11-16",
+ "saved": "2026-11-28",
  "post_url": "https://www.aurifytools.com/2026/11/coreldraw-alternatives.html"
 }
