@@ -10,5 +10,19 @@
    "WooCommerce: $25–$350/month (hosting) became Free plan; paid from $2/year"
   ],
   "detected": "2026-11-26"
+ },
+ "https://www.aurifytools.com/2026/10/logic-pro-alternatives.html": {
+  "url": "https://www.aurifytools.com/2026/10/logic-pro-alternatives.html",
+  "changes": [
+   "the price of the tool itself changed from $12.99/month or $129/year to Free plan; paid from $2.99/month",
+   "Ableton Live: Not listed became Free",
+   "Audacity: Free became Free (open-source)",
+   "Cubase: Not listed became Free plan; paid from $179.99",
+   "FL Studio: $99 became Free plan; paid from $99",
+   "GarageBand: Free became $6.99/month",
+   "Pro Tools: $99/year (Artist) became Free plan; paid from $79/year",
+   "Reaper: Not listed became $60 one-time"
+  ],
+  "detected": "2026-11-28"
  }
 }
