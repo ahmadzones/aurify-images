@@ -1,0 +1,16 @@
+{
+ "kind": "guide",
+ "tool": "GenFlik",
+ "official_url": "https://genflik.com",
+ "checked_date": "November 28, 2026",
+ "pricing": {
+  "status": "freemium",
+  "display": "Free plan; paid from $15",
+  "free_plan": true,
+  "free_plan_label": "Yes",
+  "price_value": 15.0,
+  "price_text": "$15"
+ },
+ "saved": "2026-11-28",
+ "post_url": "https://www.aurifytools.com/2026/07/genflik-review.html"
+}
